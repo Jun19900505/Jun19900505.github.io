@@ -11,18 +11,10 @@ author_profile: true
 
 <h2><strong>Published and Accepted Papers</strong></h2>
 <ul>
-  {% for post in site.publications reversed %}
-    {% if post.category == 'published' %}
-      <li>
-        <strong>{{ post.title }}</strong><br>
-        {% if post.authors %}- Joint with {{ post.authors }}<br>{% endif %}
-        {% if post.journal %}- {{ post.journal }}<br>{% endif %}
-        {% if post.presentation %}- Presented at {{ post.presentation }}<br>{% endif %}
-        {% if post.paperurl %}- <a href="{{ post.paperurl }}">Link to the latest version</a>{% endif %}
+      <li><a href="https://www.dropbox.com/scl/fi/ql9qvb23qby48bq6lygtc/FinalDraft.pdf?rlkey=0er1ua6x7ee16tuhkj6kzb4ew&st=p6st60qi&dl=0">The Crowding-in Effect of Public Information on Private Information Acquisition</a>
+        <br>
+        - Forthcoming at <span style="color: red;">Journal of Financial and Quantitative Analysis</span>
       </li>
-      <br>
-    {% endif %}
-  {% endfor %}
 </ul>
 
 <h2><strong>Working Papers</strong></h2>
