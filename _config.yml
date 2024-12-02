@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jun"
+title                    : "AOYAGI, Jun"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,13 +22,13 @@ repository               : "Jun19900505.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Muzui"
+  name             : "Jun Aoyagi"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Ph.D. in Economics (2021, UC Berkeley)"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Hong Kong University of Science and Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "junaoyagi@ust.hk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
