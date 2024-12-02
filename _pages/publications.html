@@ -1,15 +1,26 @@
 ---
 layout: archive
-title: "Publications"
+title: "Research"
 permalink: /publications/
 author_profile: true
 ---
+
+<p>
+  My research primarily focuses on financial market microstructure, information and economics, and decentralized finance.
+</p>
 
 <h2><strong>Published and Accepted Papers</strong></h2>
 <ul>
   {% for post in site.publications reversed %}
     {% if post.category == 'published' %}
-      <li><a href="{{ post.paperurl }}">{{ post.title }}</a></li>
+      <li>
+        <strong>{{ post.title }}</strong><br>
+        {% if post.authors %}- Joint with {{ post.authors }}<br>{% endif %}
+        {% if post.journal %}- {{ post.journal }}<br>{% endif %}
+        {% if post.presentation %}- Presented at {{ post.presentation }}<br>{% endif %}
+        {% if post.paperurl %}- <a href="{{ post.paperurl }}">Link to the latest version</a>{% endif %}
+      </li>
+      <br>
     {% endif %}
   {% endfor %}
 </ul>
