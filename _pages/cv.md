@@ -17,7 +17,7 @@ Education
 * M.A. in Economics, The University of Tokyo, 2015
 * B.A. in Economics, The University of Tokyo, 2013
 
-Affiliation and Work experience
+Affiliation and Work Experience
 ======
 * August 2021: Assistant Professor in Finance
   * Hong Kong University of Science and Technology
