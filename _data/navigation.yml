@@ -5,7 +5,7 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Publications"
+  - title: "Publications/Working Papers"
     url: /publications/
 
 
@@ -15,5 +15,5 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
+  - title: "日本語 (経歴)"
     url: /markdown/
