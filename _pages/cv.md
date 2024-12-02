@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+Download <a href="https://www.dropbox.com/scl/fi/jk88kp0nl97m21nq582q2/CV.pdf?rlkey=sgbcbzmekzxt3aanvjls1nc8p&dl=0"> cv (pdf)</a>, last updated August 2024.
+
 {% include base_path %}
 
 Education
