@@ -1,8 +1,14 @@
-
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve -l -H localhost`. If you change this file, please restart the 
+# server process.
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "AOYAGI, Jun"
+title                    : "Jun"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -16,13 +22,13 @@ repository               : "Jun19900505.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Jun Aoyagi"
+  name             : "Muzui"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. in Economics"
+  bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Hong Kong University of Science and Technology"
+  employer         : "Red Brick University"
   uri              : # URL
-  email            : "junaoyagi@ust.hk" 
+  email            : "none@example.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -60,7 +66,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : @sachshcas
+  twitter          : # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
