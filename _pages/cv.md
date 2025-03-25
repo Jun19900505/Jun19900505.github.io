@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Download <a href="https://www.dropbox.com/scl/fi/jk88kp0nl97m21nq582q2/CV.pdf?rlkey=sgbcbzmekzxt3aanvjls1nc8p&dl=0" target="_blank"> cv (pdf)</a>, last updated August 2024.
+Download <a href="https://www.dropbox.com/scl/fi/jk88kp0nl97m21nq582q2/CV.pdf?rlkey=sgbcbzmekzxt3aanvjls1nc8p&dl=0" target="_blank"> cv (pdf)</a>, last updated March 2025.
 
 {% include base_path %}
 
