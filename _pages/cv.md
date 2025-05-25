@@ -7,13 +7,13 @@ redirect_from:
   - /resume
 ---
 
-Download <a href="https://www.dropbox.com/scl/fi/txf8cg8ioauntas2xnhmi/CV.pdf?rlkey=xgxl8xsuybrdl0m8joou3mm5u&st=zx98gwh4&dl=0" target="_blank"> cv (pdf)</a>, last updated March 2025.
+Download <a href="assets/papers/CV.pdf" target="_blank"> cv (pdf)</a>, last updated May 2025.
 
 {% include base_path %}
 
 Education
 ======
-* Ph.D in Economics, University of California Berkeley, 2021
+* Ph.D. in Economics, University of California Berkeley, 2021
 * M.A. in Economics, The University of Tokyo, 2015
 * B.A. in Economics, The University of Tokyo, 2013
 
