@@ -15,4 +15,4 @@ Finance, Market Microstructure, Information and Economics, Decentralized Finance
 
 CV
 ---
-You can download my cv <a href="https://www.dropbox.com/scl/fi/txf8cg8ioauntas2xnhmi/CV.pdf?rlkey=xgxl8xsuybrdl0m8joou3mm5u&st=utox8foa&dl=0" target="_blank">here</a> (updated: March 2025)
+You can download my cv <a href="assets/papers/CV.pdf" target="_blank">here</a> (updated: May 2025)
