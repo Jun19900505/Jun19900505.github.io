@@ -16,3 +16,7 @@ Finance, Market Microstructure, Information and Economics, Decentralized Finance
 CV
 ---
 You can download my cv <a href="assets/papers/CV.pdf" target="_blank">here</a> (updated: May 2025)
+
+Upcoming Presentation
+---
+CAFM, FTG Asian Meeting, SBFC, TMU QFin Seminar
