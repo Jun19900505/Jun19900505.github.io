@@ -19,4 +19,4 @@ You can download my cv <a href="assets/papers/CV.pdf" target="_blank">here</a> (
 
 Upcoming Presentation
 ---
-FTG Asian Meeting (Singapore Management University; 12/9-10), CAFM (Seoul; 12/11-12), SBFC (Sydney; 12/15-16), TMU QFin Seminar, Osaka University
+FTG Asian Meeting (Singapore Management University; 12/9-10), CAFM (Seoul; 12/11-12), SBFC (Sydney; 12/15-16), TMU QFin Seminar, Osaka University, MFA Conference (Chicago; 3/12-14, 2026), Osaka University (Osaka; 3/15-18)
