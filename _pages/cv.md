@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Download <a href="https://jun19900505.github.io/assets/papers/CV.pdf" target="_blank"> cv (pdf)</a>, last updated May 2025.
+Download <a href="https://jun19900505.github.io/assets/papers/CV.pdf" target="_blank"> cv (pdf)</a>, last updated January 2025.
 
 {% include base_path %}
 
