@@ -4,6 +4,7 @@ title: "青柳 潤（あおやぎ じゅん）"
 author_profile: true
 ---
 
+
 **経済学博士 (Ph.D. in Economics)**: カリフォルニア大学バークレー校
 
 **所属**: 香港科技大学 ビジネススクール ファイナンス学科 助理教授 (Tenure Track)
@@ -16,14 +17,14 @@ author_profile: true
 
 * ファイナンスにおける市場のミクロ構造
 * 情報の経済学
-* FinTech: Blockchainなどの分散型情報管理が経済へ与える影響
+* FinTech, Blockchainなどの技術革新が金融経済へ与える影響
 
 ---
 
 ## 学歴
 
 * 2013年 東京大学 経済学部 金融学科 卒業
-* 2015年 東京大学大学院 経済学研究科 経済理論専攻 修士課程 修了（専攻:マクロ経済学）
+* 2015年 東京大学大学院 経済学研究科 経済理論専攻 修士課程 修了
 * 2015年 同 後期博士課程（日本学術振興会特別研究員DC1）
 * 2021年 カリフォルニア大学バークレー校 経済学部 Ph.D.
 
@@ -36,53 +37,31 @@ author_profile: true
 * 2018年 Berkeley Blockchain Initiative Award（約100万円）
 * 2018年 大阪大学 社会経済研究所 森口賞
 * 2019年 Financial Research Association Travel Grant
-* 2021年 CAMF学会 Best Paper Award
 * 2021年 HKUST Startup Grant（約300万円）
+* 2022年 CAMF学会 Best Paper Award
 * 2023年 Hong Kong GRF Early Career Scheme Grant（約800万円）
 
 ---
 
-## 所属学会
-
-* Econometric Society
-* American Finance Association
-* Northern Finance Association
-* Western Finance Association
-
----
-
-## 学会発表（*査読あり学会）
-
-### 2015年
-
-* マクロセミナー、マクロ金融セミナー（東京大学）
-
----
+## 学会発表
 
 ### 2017年
 
-* 若手ファイナンス学会（東京大学）*
-* Berkeley Finance Lunch Seminar
+* 若手ファイナンス学会（東京大学)
+* Berkeley Finance Seminar
 
 ---
 
 ### 2018年
 
-* 若手ファイナンス学会（東京大学）*
-* SWET（北海道大学）
+* 若手ファイナンス学会（東京大学), SWET（北海道大学), WINDS (University of Pennsylvania), 大阪大学ISER 森口賞報告会
 * Berkeley Finance Lunch Seminar
-* WINDS（University of Pennsylvania, Wharton School）*
-* 大阪大学社会経済研究所 森口賞報告会*
 
 ---
 
 ### 2019年
 
-* Review of Financial Studies / Georgia State University FinTech Conference (Atlanta, USA)*
-* NYU Stern Annual Microstructure Meeting (New York, USA)*
-* Southampton Cryptocurrency Research Conference（共著者による）*
-* Northern Finance Association Conference (Vancouver, Canada)*
-* Financial Research Association Conference (Las Vegas, USA)*
+* Review of Financial Studies-Georgia State University FinTech Conference (Atlanta, USA), NYU Stern Annual Microstructure Meeting (New York, USA), Southampton Cryptocurrency Research Conference, NFA Conference (Vancouver, Canada), FRA Conference (Las Vegas, USA)
 
 ---
 
