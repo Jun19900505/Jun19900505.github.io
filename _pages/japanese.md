@@ -48,14 +48,14 @@ author_profile: true
 ### 2017年
 
 * 若手ファイナンス学会（東京大学)
-* Berkeley Finance Seminar
+* Seminar: UC Berkeley Finance Seminar
 
 ---
 
 ### 2018年
 
 * 若手ファイナンス学会（東京大学), SWET（北海道大学), WINDS (University of Pennsylvania), 大阪大学ISER 森口賞報告会
-* Berkeley Finance Lunch Seminar
+* Seminar: Berkeley Finance Lunch Seminar
 
 ---
 
@@ -67,53 +67,47 @@ author_profile: true
 
 ### 2020年
 
-* Econometric Society European Winter Meeting (Nottingham, UK)*
-* Northern Finance Association Conference (Banff, Canada)*
-* Northeastern University Finance Conference (Boston, USA)*
-* Financial Services Agency（金融庁）
-* 一橋大学、早稲田大学
+* Econometric Society Winter Meeting (Nottingham, UK), NFA Conference (Banff, Canada), Northeastern University Finance Conference (Boston, USA)
+* Seminar: 金融庁, 一橋大学, 早稲田大学
 
 ---
 
 ### 2021年
 
-* P2P Financial Systems Conference 2021 (Online)*
-* Tokenomics 2021 (NYU / Online)*
-* 4th UWA Blockchain and Cryptocurrency Conference (UWA / Online)*
-* FMA Annual Meeting (Denver / Online)*
-* Digital Workshop (UTokyo / Online)
-* HKUST, CEU, HEC Montreal, UTokyo
+* P2P Financial Systems Conference 2021 (Online), Tokenomics 2021 (NYU / Online), UWA Blockchain and Cryptocurrency Conference (Online), FMA Annual Meeting (Online), University of Tokyo Digital Workshop (Online)
+* Seminar: HKUST, CEU, HEC Montreal, 東京大学, 早稲田大学
 
 ---
 
 ### 2022年
 
-* CESC (Berkeley)*
-* CB Conference on Microstructure of Financial Markets (Sydney)*
-* Crypto and Blockchain Economics Research Conference (Boston)*
-* Hong Kong Conference for FinTech, Big Data, and AI in Business (Hybrid)*
-* Midwest Finance Association Conference (Chicago)*
-* Finance Down Under (Online)*
-* Western Finance Association Meeting (Portland)*
-* CICF (Online)*
-* NUS, HKUST, 早稲田大学, 東京大学, UIC
+* CESC (Berkeley), CB Conference on Microstructure of Financial Markets (Sydney), CBER Conference (Boston), Hong Kong Conference for FinTech, Big Data, and AI in Business (Hybrid), MFA Conference (Chicago), Finance Down Under (Online), WFA Conference (Portland), CICF (Online)
+* Seminar: NUS, HKUST, 早稲田大学, 東京大学, UIC
 
 ---
 
 ### 2023年
 
-* 東京都立大学（ファイナンスシンポジウム）
-* Hong Kong Baptist University
-* Renmin University of China
-* HKUST
-* ECF Finance Conference for New Technologies*
+* ECF Finance Conference for New Technologies, 東京都立大学（ファイナンスシンポジウム）
+* Seminar: Hong Kong Baptist University, Renmin University of China, HKUST
 
 ---
 
-### 2024年（予定含む）
+### 2024年
 
-* 東京都立大学（Quantitative Finance Seminar）
-* HKUST
-* 一橋大学
-* 早稲田大学
+* Seminar: 東京都立大学, HKUST, 一橋大学, 早稲田大学, 青山学院大学
+
+---
+
+### 2025年
+
+* Finance Theory Group Asian Meeting (SMU), CAFM (Seoul), Sydney Banking and Finance Conference, Waseda Summer Finance Workshop
+* Seminar: 東京都立大学, HKUST, 早稲田大学
+
+---
+
+### 2026年
+
+* MFA Conference (Chicago), Workshop on Mathematical Finance and Related Issues (Osaka), CARF-FSA Joint Symposium (Tokyo)
+* Seminar: 東京都立大学, JSRI, 一橋大学
 
