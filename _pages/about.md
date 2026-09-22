@@ -15,7 +15,7 @@ Finance, Market Microstructure, Information and Economics, Decentralized Finance
 
 CV
 ---
-You can download my cv <a href="assets/papers/CV.pdf" target="_blank">here</a> (last updated: January 2026)
+You can download my cv <a href="assets/papers/CV.pdf" target="_blank">here</a> (last updated: August 2026)
 
 Upcoming Presentation
 ---
